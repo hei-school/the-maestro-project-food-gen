@@ -5,7 +5,7 @@ you don't need to struggle about what you will eat tomorrow.
 ## About
 This repository is just a forefront for the project but the source codes are stored elsewere:
 * **[Front-End](https://github.com/HEI-CleanCodeProject/FoodGen-Front)**
-* **[Back-End](https://github.com/HEI-CleanCodeProject/FoodGen-Back)**
+* **[Back-End](https://github.com/cleancode-hei/foodgen-api)**
 
 ## Conception
 This app is intended to be simple and intuitive.
