@@ -9,10 +9,11 @@ This repository is just a forefront for the project but the source codes are sto
 
 ## Conception
 This app is intended to be simple and intuitive.
-* User can see and search meal and recipe without signing up or signing in
+* User can see and search meal and recipe with their respective ingredients
 * User can sign up and set preferences, allergies and dislikes
-* Signed users can post recipes and meals and can rate a meal
-* Signed users get to see recommendations according to rating
+* Signed users can rate a meal by download it
+* Signed users (admin) can post recipes and meals
+* Signed users get to see recommendations according to rating and preferences
 
 Tech used are Spring Boot as back-end, NextJS as front-end and PostgreSQL as database. Along with
 AWS as cloud provider, Github as version control, CI/CD and for collaboration, Jira as project management.
@@ -28,5 +29,5 @@ AWS as cloud provider, Github as version control, CI/CD and for collaboration, J
 2. [X] Random food generation
 3. [X] Recipe and meal posts 
 4. [X] Recipe & meal search with filters
-5. [ ] Recommendation
+5. [x] Recommendation
 6. [X] Rating
