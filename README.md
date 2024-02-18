@@ -10,7 +10,7 @@ This repository is just a forefront for the project but the source codes are sto
 ## Conception
 This app is intended to be simple and intuitive.
 * User can see and search meal and recipe with their respective ingredients
-* User can sign up and set preferences, allergies and dislikes
+* User can sign up and set preferences and allergies
 * Signed users can rate a meal by download it
 * Signed users (admin) can post recipes and meals
 * Signed users get to see recommendations according to rating and preferences
